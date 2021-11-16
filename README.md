@@ -1,2 +1,2 @@
 # LearnC-JAVA-CSharp
-记录文档
+用于辅助学习C，JAVA与C#的记录文档
