@@ -7,7 +7,7 @@ int main()
 	{
 		if (BJtime >= 0)
 		{
-			hour1 = BJtime / 100;
+			hour1 = BJtime / 100; 
 			minute1 = BJtime % 100;
 			if (hour1 > 8)
 			{
